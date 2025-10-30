@@ -25,13 +25,13 @@ print(math.sin(math.radians(90)))
 
 
 
-innercase
+lowercase
 uppercase
 sentence-->every word-->capitalize
 sentence-->beginning word-->capitalize
 
 within a given sentence
-innercase-->upper case ,uppercase case-->lowercase
+lowercase-->upper case ,uppercase case-->lowercase
 
 #capitalize
 content = "hello World"
